@@ -1,7 +1,7 @@
 # Reverse
 
 Usage: 
-`php -f reverse.php 'String to be reversed`
+`php -f reverse.php "String to be reversed"`
 
 ## SQL queries
 
