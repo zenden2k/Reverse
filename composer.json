@@ -1,0 +1,15 @@
+{
+    "name": "zenden2k/reverse",
+    "require": {
+        "phpunit/phpunit": "4.8.*"
+    },
+    "autoload": {
+        "psr-4": {"Zenden2k\\Reverse\\": "src/Zenden2k/Reverse/"}
+    },
+    "authors": [
+        {
+            "name": "Sergey Svistunov",
+            "email": "zenden2k@gmail.com"
+        }
+    ]
+}
